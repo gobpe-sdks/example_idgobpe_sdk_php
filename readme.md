@@ -1,3 +1,3 @@
-# Demo de integración con IDGOB.PE PHP SDK
+# Proyecto deprecado
 
-Documentación del SDK [aquí](https://github.com/gobpe-sdks/idgobpe_sdk_php).
+Versiones actualizadas en: https://github.com/gobpe-sdks
